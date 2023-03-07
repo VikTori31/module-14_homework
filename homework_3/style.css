@@ -1,0 +1,24 @@
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+}
+
+.card {
+  width: 200px;
+  margin: 20px;
+}
+
+.card_img {
+  display: block;
+  width: 200px;
+  height: 150px;
+}
+.inp{
+  width: 100px;
+}
+.btn{
+  background-color: green;
+  color: white;
+  
+}

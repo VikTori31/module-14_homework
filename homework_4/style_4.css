@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    }
+  input{
+    width: 200px;
+    margin:0 0 10px 0;
+  }
+  button{
+    width: 210px;
+    background-color: gray;
+    color: white;
+  }
+  .result{
+    max-width: 400px;
+    
+  }
